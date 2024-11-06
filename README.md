@@ -17,3 +17,10 @@ Se han usado los comandos:
 
 # Listar ramas
 Para listar las ramas usamos el comando _git branch_. El asterisco junto al nombre indica la rama en la que estás trabajando actualmente.
+
+# Modificación de ramas con archivos
+- git add . Para añadir el archivo.
+- git commit -m "Añadiendo fichero almacen_cli.java". Para hacer commit del archivo.
+
+# Ver las diferencias
+Para ver las diferencias entre dos ramas usamos _git diff ramaAlumno2_ si queremos ver la diferencia con la rama ramaAlumno2. Lo hemos averiguado en 1 minuto, por lo que gemos quedado bien delante del jefe.
