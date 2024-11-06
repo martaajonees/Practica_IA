@@ -11,3 +11,6 @@ Se han usado los comandos:
 - _git remote_. Para comprobar si se ha agregado correctamente el repositorio GitHub.
 - _git push origin main_ Para enviar todos los archivos al repositorio GitHub
   
+# Creación de ramas
+- _git branch ramaAlno2_. Para crear la rama del alumno 2.
+- _git branch -m ramaAlumno2_. Para corregir el nombre de la rama del alumno 2.
