@@ -29,4 +29,5 @@ Para ver las diferencias entre dos ramas usamos _git diff ramaAlumno2_ si querem
 Para fusionar la rama hemos seguido los siguientes pasos:
 - _git checkout main_ Para cambiar a la rama main
 - _git merge ramaAlumno1_. Para unir la ramaAlumno1 con la main.
-Los dos hemos podido realizar los pasos de forma idéntica, por lo que no hemos tenido ningún problema.
+- _git pull origin main --rebase_ Para hacer un pull con rebase, que integra los cambios remotos en tu rama local sin crear un nuevo merge commit
+Los dos hemos podido realizar los pasos de forma idéntica, excepto por el último rebase. Este rebase se ha tenido que hacer ya que al hacer el Alumno2 el push al repositorio GitHub la rama main local del Alumno1 se ha quedado atrás que el remoto.
