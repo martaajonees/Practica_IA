@@ -23,4 +23,10 @@ Para listar las ramas usamos el comando _git branch_. El asterisco junto al nomb
 - git commit -m "Añadiendo fichero almacen_cli.java". Para hacer commit del archivo.
 
 # Ver las diferencias
-Para ver las diferencias entre dos ramas usamos _git diff ramaAlumno2_ si queremos ver la diferencia con la rama ramaAlumno2. Lo hemos averiguado en 1 minuto, por lo que gemos quedado bien delante del jefe.
+Para ver las diferencias entre dos ramas usamos _git diff ramaAlumno2_ si queremos ver la diferencia con la rama ramaAlumno2. Lo hemos averiguado en 1 minuto, por lo que hemos quedado bien delante del jefe.
+
+# Merge sin conflictos
+Para fusionar la rama hemos seguido los siguientes pasos:
+- _git checkout main_ Para cambiar a la rama main
+- _git merge ramaAlumno1_. Para unir la ramaAlumno1 con la main.
+Los dos hemos podido realizar los pasos de forma idéntica, por lo que no hemos tenido ningún problema.
