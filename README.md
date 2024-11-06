@@ -14,3 +14,6 @@ Se han usado los comandos:
 # Creación de ramas
 - _git branch ramaAlno2_. Para crear la rama del alumno 2.
 - _git branch -m ramaAlumno2_. Para corregir el nombre de la rama del alumno 2.
+
+# Listar ramas
+Para listar las ramas usamos el comando _git branch_. El asterisco junto al nombre indica la rama en la que estás trabajando actualmente.
