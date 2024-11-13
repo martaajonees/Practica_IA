@@ -19,7 +19,7 @@
 - **git commit**: Para hacer commit de los cambios al repositorio 
 
 # 17. ¿Qué ha cambiado?
-- **git log --pretty=format:"%H%n%an%n%ae%n%s"**: Para ver los cambios realizados en los últimos commits y obtener la información
+- **git whatchanged --pretty=format:"%H%n%an%n%ae%n%s"**: Para ver los cambios realizados en los últimos commits y obtener la información
 - **%H**: SHA-1 del commit
 - **%an**: Nombre del autor
 - **%ae**: Email de quien hizo el commit
