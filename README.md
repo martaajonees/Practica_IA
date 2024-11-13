@@ -24,3 +24,11 @@
 - **%an**: Nombre del autor
 - **%ae**: Email de quien hizo el commit
 - **%s**: Mensaje del commit
+
+# 18. Merge sin conflictos
+- **git add .**: Para añadir al área de preparación
+- **git commit**. Para commit al repositorio local
+- **git merge rama**. Para unir dos ramas.
+- **git push**. Para añadir al repositorio remoto los cambios
+
+# 19. Modificar los alumnos en sus ramas
