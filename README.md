@@ -13,3 +13,7 @@
 
 # 16. Modificar ramas
 - **git checkout ramaAlumno1**: Para situarnos en la rama correspondiente
+- git pull: Para extraer cambios
+- git push: Para mandar los cambios
+- git add: Para añadir cambios
+- git commit: Para hacer commit de los cambios al repositorio 
