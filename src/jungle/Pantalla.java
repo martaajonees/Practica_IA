@@ -714,5 +714,3 @@ System.out.println("Ha fallado el menu_consultar_cliente()");
 }
 	
 }				  
-
-
