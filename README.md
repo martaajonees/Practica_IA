@@ -45,7 +45,9 @@ El primer alumno no ha tenido problemas ya que ha sido el primero en hacer el pu
 # 21. Historial de commits
 Para saber cuantos commits ha hecho cada uno usaremos
 - **git shortlog -s -n --all**
-
+Para la segunda parte usaremos
+- **git cherry main nombre_de_la_rama**
+En este caso, no tenemos soluciones ya que con los merge, no hay commit que se haya hecho en una rama que no esté en el main.
 
 # 22. Eliminar rama remota secundaria
 Para eliminar la rama cuyo nombre hemos puesto "experiment" debemos usar el siguiente comando
