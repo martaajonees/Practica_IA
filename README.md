@@ -13,7 +13,14 @@
 
 # 16. Modificar ramas
 - **git checkout ramaAlumno1**: Para situarnos en la rama correspondiente
-- git pull: Para extraer cambios
-- git push: Para mandar los cambios
-- git add: Para añadir cambios
-- git commit: Para hacer commit de los cambios al repositorio 
+- **git pull**: Para extraer cambios
+- **git push**: Para mandar los cambios
+- **git add**: Para añadir cambios
+- **git commit**: Para hacer commit de los cambios al repositorio 
+
+# 17. ¿Qué ha cambiado?
+- **git log --pretty=format:"%H%n%an%n%ae%n%s"**: Para ver los cambios realizados en los últimos commits y obtener la información
+- **%H**: SHA-1 del commit
+- **%an**: Nombre del autor
+- **%ae**: Email de quien hizo el commit
+- **%s**: Mensaje del commit
