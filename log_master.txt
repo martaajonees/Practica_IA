@@ -1,0 +1,53 @@
+fcd0bd4 readme punto 20
+cf5d1cd Merge branch 'main' of https://github.com/martaajonees/Practica_IA
+8939020 readme punto 20
+3d52749 cambios
+3982e0e cambios
+34f3533 Resolver conflictos en LineaDeCompra
+49e325b Merge
+5f08127 commit linea compra alumno4
+2d213bc Merge branch 'main' of https://github.com/martaajonees/Practica_IA
+19b2f8d Modificación de lineaDeCompra.java
+8d9f230 LineaDeCompra Alum2
+3fd6305 linea de compra alumno4
+242158d linea de compra mod1
+54c517c Merge branch 'main' of https://github.com/martaajonees/Practica_IA
+6ca3cd4 Añado lineaDeCompra.java
+74295c3 Añadir compra.java
+08a9ec0 Update README.md
+1a9bbdf Solucion de problemas 2
+5c989a8 Pablo intenta solucionar los problemas
+1fa4a2a Merge rama1
+a858ad2 Update Pantalla.java de pablo
+ff92222 Merge branch 'ramaAlumno4'
+d029c6e Merge ramaAlumno2
+b397b18 Cambios en rama 1
+38025ad Merge branch 'main' of https://github.com/martaajonees/Practica_IA
+a875a38 Update README.md
+d3c8270 Update README.md
+5f3e3e7 Añadiendo cambios Pantalla.java de ramaAlumno3
+df1a35d Update README.md
+e3bfadd archivo alumno4 modificado
+484055c Modificaciones en Pantalla.java
+0bd3694 Cambio a Pantalla realizado
+3926d84 Update README.md
+3417de4 Update README.md
+d8d5dda Update README.md
+5bc52c3 Update README_parcial.md
+4a69701 Update README.md
+7fb9330 Creación ReadMe total
+7161fcb Update README.md
+7960089 Modificación Act13 README.md
+0c25e1a Corrección Act10 en el README.md
+19087c6 Añadiendo fichero almacen_cli.java
+988d54e Modificación Act 11 README.md
+f5746e5 RamaAlumno2 unida
+1e857e4 Modificacion Act9 y 10 del README.md
+ca168a6 Añadiendo fichero cliente.java
+21db40b Añadiendo fichero almacen_cli.java
+3585678 Modificación Act8 README.md
+f71700e Modificación Act7 README.md
+8750947 Modificación del readme
+ff8af94 Readme añadido otra vez
+1dcd53e Readme añadido
+672b004 Inicialización del repositorio con archivos Farmacia
