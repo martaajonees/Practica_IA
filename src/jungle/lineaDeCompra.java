@@ -1,5 +1,10 @@
 package jungle;
-public class LineaDeCompra
+import java.time.format.DateTimeFormatter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.*;
+public class lineaDeCompra
 {
     private int cod_linea_compra;
     private static int num_cod_lc = 0;
