@@ -42,6 +42,11 @@ A la hora de hacer el push, el primer compañero que lo hace no tiene problemas,
 Cada uno hemos modificado el archivo "lineaDeCompra.java" en el main. El primero que introdujo los cambios, fue Pablo (Alumno2), seguido de Marta (Alumno1), Violeta (Alumno4) aquí nos dimos cuenta que teníamos una nueva funcion que era *getnumcod_lc()* y por último Ezequiel (Alumno3) aqui nos quedamos con los cambios del alumno anterior.
 El primer alumno no ha tenido problemas ya que ha sido el primero en hacer el push, por lo que no ha habido conflictos. El segundo alumno, al hacer el push, se encuentra con un conflicto ya que el primer alumno ha hecho un push antes que él y ha modificado el mismo archivo.
 
+# 21. Historial de commits
+Para saber cuantos commits ha hecho cada uno usaremos
+- **git shortlog -s -n --all**
+
+
 # 22. Eliminar rama remota secundaria
 Para eliminar la rama cuyo nombre hemos puesto "experiment" debemos usar el siguiente comando
 - **git push origin --delete experiment**
