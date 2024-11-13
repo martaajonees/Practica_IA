@@ -32,3 +32,13 @@
 - **git push**. Para añadir al repositorio remoto los cambios
 
 # 19. Modificar los alumnos en sus ramas
+Cada compañero dentro de la rama **main** modificamos el archivo lineaDeCompra.java, con un nuevo archivo cada uno, posteriormente veremos el merge y la unión de todos los cambios.
+
+# 20 Merge con conflictos
+## ¿Qué está pasando?
+A la hora de hacer el push, el primer compañero que lo hace no tiene problemas, pero el segundo compañero que intenta hacerlo, se encuentra con un conflicto. Esto se debe a que el primer compañero ha hecho un push antes que el segundo, por lo que el segundo tiene que hacer un pull para poder hacer el push. Pero nos encontramos con conflictos en el archivo, ya que el primer compañero ha modificado el archivo antes que el segundo y es el mismo archivo.
+
+## ¿Por qué ha sucedido esto? ¿Por qué el Alumno más rápido no ha tenido problemas?
+Cada uno hemos modificado el archivo "lineaDeCompra.java" en el main. El primero que introdujo los cambios, fue Pablo (Alumno2), seguido de Marta (Alumno1), Violeta (Alumno4) aquí nos dimos cuenta que teníamos una nueva funcion que era *getnumcod_lc()* y por último Ezequiel (Alumno3) aqui nos quedamos con los cambios del alumno anterior.
+El primer alumno no ha tenido problemas ya que ha sido el primero en hacer el push, por lo que no ha habido conflictos. El segundo alumno, al hacer el push, se encuentra con un conflicto ya que el primer alumno ha hecho un push antes que él y ha modificado el mismo archivo.
+
