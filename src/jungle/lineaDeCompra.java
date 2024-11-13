@@ -31,4 +31,8 @@ public class LineaDeCompra
     {
     return this.m;
     }
+    public int getNum_cod_lc()
+    {
+    return this.num_cod_lc;
+    }
 }
